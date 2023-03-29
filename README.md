@@ -1,8 +1,12 @@
 
  <h2 align="center"><b style="font-family: Arial, sans-serif;">Hello, I'm Sweety! 👋</b></h2> 
-  <p align="center" border-radius= "50%" max-width= "200px" height= "auto">
-    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img1_resized.png" alt="animated" />
+  <p align="center">
+    <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img1_resized.png" alt="animated" />
   </p>
-  <p align="center">I'm a passionate computer science graduate from IUB with two years of experience in the field. I love to stay up-to-date with the latest technologies and use my skills to solve complex problems. </p>
-  <p align="center">In my free time, I enjoy working on personal coding projects, exploring new technologies, and collaborating with other developers. I'm always looking for new challenges and opportunities to learn and grow.</p>
-  <p align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/sweetybaruah/">LinkedIn</a> or check out my <a href="https://github.com/sweetybaruah">GitHub</a> profile to see some of my work!</p>
+<p align="center">
+  <a href="mailto:youremail@gmail.com" style="background-color:#ffffff; border-radius:50%; padding:5px;"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile" style="background-color:#ffffff; border-radius:50%; padding:5px;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+</p>
+
+
