@@ -1,5 +1,5 @@
 
-  <h2 align="center"><b>Hello, I'm Sweety! 👋</b></h2>
+ <h2 align="center"><b style="font-family: Arial, sans-serif;">Hello, I'm Sweety! 👋</b></h2> 
   <p align="center" border-radius= "50%" max-width= "200px" height= "auto">
     <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/sweety_img2.png" alt="animated" />
   </p>
