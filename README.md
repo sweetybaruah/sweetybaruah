@@ -1,7 +1,7 @@
 
  <h2 align="center"><b font-family="Gill Sans Extrabold, sans-serif">Hey, Myself Sweety ♐</b></h2> 
   <p align="center">
-    <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img1_resized.png" alt="animated" />
+    <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img6.png" alt="animated" />
   </p>
 <p align="center">
 <p align="center">
