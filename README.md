@@ -1,31 +1,85 @@
 
- <h2 align="center"><b font-family="Gill Sans Extrabold, sans-serif">Hey, Myself Sweety ♐</b></h2> 
-  <p align="center">
-    <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img6.png" alt="animated" />
-  </p>
+<h2 align="center"><b font-family="Gill Sans Extrabold, sans-serif">Hey, Myself Sweety ♐</b></h2> 
 <p align="center">
+  <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img6.png" alt="animated" />
+</p>
 <p align="center">
-<a href="mailto:b100arya@gmail.com" padding= "5px"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" /></a>
+<a href="mailto:b100arya@gmail.com" padding= "5px"><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/gmail.png" alt="Gmail" height="60" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sweety-barua-0a668a261/" background-color= "#ffffff" border-radius= "50%" padding= "5px"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sweety-barua-0a668a261/" padding= "5px"><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/linkedin.png" alt="LinkedIn" height="60" /></a>
 </p>
 <p align= "center" font-family="Gill Sans Extrabold, sans-serif" font-size="16px" >
 <b> From scribbling in diaries to crafting code, my life's journey is now chronicled in bytes instead of ink. </b>
 </p>
-<h2>TECHS-KILL</h2>
+<h2><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/laptop.png" alt="skill" height="40" width="35">&nbsp;&nbsp;TECHS-KILL</h2>
 <ul>
+    <p align= "center" >
+    <h4>FRONTEND</h4>
+    <p align="center"> 
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/html-5.png" alt="HTML5" height="50">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/css.png" alt="CSS" height="50">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/bootstrap.png" alt="bootstrap" height="50">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/javascript.png" alt="javascript" height="50">
+    </p>
+    </p>
+</ul>
+<ul>
+    <p align= "center" >
+    <h4>BACKEND</h4>
+    <p align="center"> 
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/php.png" alt="php" height="50">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/node-js.png" alt="nodejs" height="50">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    </p>
+</ul>
 <ul>
  <p align= "center" >
- <h4>FRONTEND</h4>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML5" height="30"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="CSS" height="30"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" alt="Bootstrap" height="30"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="30"> &nbsp;&nbsp;&nbsp;&nbsp;
- </P>
- <p align= "center" >
- <h4>BACKEND</h4>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP" height="30"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="30">
+ <h4>DATABASE</h4>
+ <p align="center"> 
+   <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/mysql.png" alt="php" height="50">
  </p>
 </ul>
+<h2><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/graduate.png" alt="skill" height="40" width="35">&nbsp;&nbsp;EDUCATION</h2>
+<table>
+  <thead>
+    <tr>
+      <th>PROGRAM</th>
+      <th>INSTITUTION</th>
+      <th>MAJOR</th>
+      <th>MINOR</th>
+      <th>TIMELINE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BACHALOR OF SCIENCE</td>
+      <td>INDEPENDENT UNIVERSITY BANGLADESH</td>
+      <td>COMPUTER SCIENCE</td>
+      <td>ENVIRONMENTAL SCIENCE</td>
+      <td>2017-2021</td>
+    </tr>
+  </tbody>
+</table>
+<h2><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/certificate.png" alt="skill" height="40" width="35">&nbsp;&nbsp;COURSES & CERTIFICATION</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>TITLE</th>
+      <th>UNDER</th>
+      <th>SKILLS GAINED</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Introduction to Big Data</td>
+      <td>UC San Diego Jacobs School of Engineering</td>
+      <td>HADOOP</td>
+    </tr>
+  </tbody>
+</table>
 
