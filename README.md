@@ -13,26 +13,28 @@
 </p>
 <h2><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/laptop.png" alt="skill" height="40" width="35">&nbsp;&nbsp;TECHS-KILL</h2>
 <ul>
-    <p align= "center" >
+    <h4>Programming Languages</h4>
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/jsicon1.png" alt="javascript" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/jsicon1.png" alt="javascript" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;
     <h4>FRONTEND</h4>
-    <p align="center"> 
-        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/html-5.png" alt="HTML5" height="50">
+    <p> 
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/htmlicon1.png" alt="HTML5" height="50">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/css.png" alt="CSS" height="50">
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/cssicon1.png" alt="CSS" height="50">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/bootstrap.png" alt="bootstrap" height="50">
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/bootstrapicon1.png" alt="bootstrap" height="50">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/javascript.png" alt="javascript" height="50">
-    </p>
+        <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/jsicon1.png" alt="javascript" height="50">
     </p>
 </ul>
 <ul>
-    <p align= "center" >
+    <p>
     <h4>BACKEND</h4>
-    <p align="center"> 
-    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/php.png" alt="php" height="50">
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/phpicon1.png" alt="php" height="50">
       &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/node-js.png" alt="nodejs" height="50">
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/nodejsicon1.png" alt="nodejs" height="50">
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/jsonicon1.png" alt="json" height="50">
       &nbsp;&nbsp;&nbsp;&nbsp;
     </p>
     </p>
@@ -40,8 +42,10 @@
 <ul>
  <p align= "center" >
  <h4>DATABASE</h4>
- <p align="center"> 
-   <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/mysql.png" alt="php" height="50">
+ <p> 
+   <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/mysqlicon1.png" alt="php" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/mongodbicon1.png" alt="php" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/jsicon1.png" alt="javascript" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/icons/graduate.png" alt="skill" height="40" width="35">&nbsp;&nbsp;EDUCATION</h2>
