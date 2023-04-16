@@ -1,5 +1,5 @@
 
-<h2 align="center"><b font-family="Gill Sans Extrabold, sans-serif">Hey, Myself Sweety ♐</b></h2> 
+<h2 align="center"><b font-family="Gill Sans Extrabold, sans-serif">Hey, I'm Sweety ♐</b></h2> 
 <p align="center">
   <img width="25%" src="https://raw.githubusercontent.com/sweetybaruah/sweetybaruah/main/img6.png" alt="animated" />
 </p>
